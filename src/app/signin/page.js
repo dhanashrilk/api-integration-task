@@ -90,7 +90,7 @@ export default function Signin() {
           <div className="w-full flex justify-center my-auto">
             <div className="w-[420px] shadow-2xl border p-6 rounded-xl">
               <div className="top mb-7">
-                <h1 className="text-xl font-semibold mb-2 text-[#343434] tracking-tight opacity-[0.9]">
+                <h1 className="text-xl font-bold mb-2 text-[#343434] tracking-tight opacity-[0.9]">
                   Login
                 </h1>
                 <p className="leading-tight text-md font-normal text-[#343434] opacity-[0.9]">
